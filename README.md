@@ -10,7 +10,7 @@
                          
    Server Template
 ```
-<img width="1873" height="555" alt="image" src="https://github.com/user-attachments/assets/0ba07a5a-d519-4256-952a-3298dec34bc6" />
+<img width="1873" height="555" alt="image" src="https://github.com/user-attachments/assets/b41652d6-c085-4cc8-9908-2d10c8787cd8" />
 
 
 ---
